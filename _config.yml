@@ -4,7 +4,7 @@ title: "MSec Consulting Blog"
 description: "This blog contains our latest research updates and developments."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-# baseurl: /mediumish-theme-jekyll
+baseurl: ""
 google_analytics: 'G-2SQK9DWPQS'
 include: ["_pages"]
 permalink: /:title/
